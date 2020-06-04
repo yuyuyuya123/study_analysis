@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="study_analysis_dao" />
+        <module name="study_analysis_domain" />
+        <module name="study_analysis_service" />
+        <module name="study_analysis_utils" />
+        <module name="study_analysis_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="study_analysis" target="1.5" />
+      <module name="study_analysis_dao" target="1.8" />
+      <module name="study_analysis_domain" target="1.8" />
+      <module name="study_analysis_service" target="1.8" />
+      <module name="study_analysis_utils" target="1.8" />
+      <module name="study_analysis_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
