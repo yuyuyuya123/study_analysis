@@ -1,5 +1,16 @@
 #study_analysis
-一个后台管理系统
+一个后台管理系统，管理用户，展示分析数据
+
+#环境及框架
+- jdk1.8
+- tomcat8.5
+- mysql8
+- echarts
+- spring5.0.2
+- mybatis3.4.5
+- spring security 5.0.1
+- bootstrap3
+- jquery1.10.2
 
 #功能
  - 登录：通过验证该用户是否存在，用户名和密码是否匹配，该用户的状态是否为开启，该用户是否有登录的权限
